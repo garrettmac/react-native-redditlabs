@@ -1,0 +1,19 @@
+{
+  "name": "react-native-redditlabs",
+  "version": "0.0.1",
+  "description": "The Reddit API for React Native",
+  "main": "RedditLabs/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garrettmac/react-native-redditlabs.git"
+  },
+  "author": "garrettmac <garrett@vyga.io> (http://vyga.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/garrettmac/react-native-redditlabs/issues"
+  },
+  "homepage": "https://github.com/garrettmac/react-native-redditlabs#readme"
+}

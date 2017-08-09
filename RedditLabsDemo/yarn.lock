@@ -3267,9 +3267,9 @@ react-devtools-core@2.3.1:
     shell-quote "^1.6.1"
     ws "^2.0.3"
 
-react-native-redditlabs@^0.0.1:
+"react-native-redditlabs@https://github.com/garrettmac/react-native-redditlabs":
   version "0.0.1"
-  resolved "https://registry.yarnpkg.com/react-native-redditlabs/-/react-native-redditlabs-0.0.1.tgz#c0963bdb1babdfc765aff5d4af45a343e8838fb5"
+  resolved "https://github.com/garrettmac/react-native-redditlabs#65b72ecdcbefc6c6f3d7241d7c016cf90631d5cf"
 
 react-native-vector-icons@^4.3.0:
   version "4.3.0"

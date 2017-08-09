@@ -1,6 +1,6 @@
 {
   "name": "react-native-redditlabs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The Reddit API for React Native",
   "main": "RedditLabs/index.js",
   "scripts": {
